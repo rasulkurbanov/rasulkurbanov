@@ -8,4 +8,4 @@
 - 💬 Ask me about python, javascript
 - 📫 How to reach me: Telegram - @rasuljohn
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Hey girls, I'm single yet)
+- ⚡ Fun fact: Hey girls, I'm still single)
