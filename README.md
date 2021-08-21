@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on different projects related to Public Education
+- 🔭 I’m currently working on different projects related to ML
 - 🌱 I’m currently learning algorithms and data structures and docker
 - 👯 I’m looking to collaborate on AI based backend applications
 - 💬 Ask me about python, javascript
