@@ -57,13 +57,12 @@ BLOG-POST-LIST:START
  BLOG-POST-LIST:END -->
 
 
-
+<!-- 
 ## :trophy: My Github Stats:
 
-<!--
+
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=rasulkurbanov&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rasulkurbanov&count_private=true&show_icons=true&theme=tokyonight" />
@@ -72,7 +71,7 @@ BLOG-POST-LIST:START
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasulkurbanov&hide=php&theme=tokyonight" />
 </a>
 </div>
-
+-->
 
 
 [linkedin]: https://linkedin.com/in/rasuljon-kurbanov/
